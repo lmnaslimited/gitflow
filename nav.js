@@ -1,6 +1,6 @@
 export default function Nav() {
-return(
-<div> Hi </div>
-)
-  
+  const abc = 'abc'
+  return(
+  <div> Hi </div>
+  )
 }
