@@ -3,5 +3,6 @@ export default function Nav() {
   return(
   <div> Hi </div>
   <span> Hi </span>  
+  <span> Menu </span>
   )
 }
